@@ -26,4 +26,12 @@ Features:
     - Validates input and handles errors
     - Full of comments so it's easy to understand
 
-(Make sure you have Python 3 installed)
+How to Run:
+Make sure you have Python 3 installed, then:
+
+'''bash
+python Simple_Password_Generator.py
+
+
+
+
