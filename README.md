@@ -26,4 +26,4 @@ Features:
     - Validates input and handles errors
     - Full of comments so it's easy to understand
 
-
+(Make sure you have Python 3 installed)
